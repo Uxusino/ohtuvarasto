@@ -1,2 +1,2 @@
 # ohtuvarasto
-Repositoria Ohjelmistotuotannon tehtäviä varten.
+Repositorio Ohjelmistotuotannon tehtäviä varten.
