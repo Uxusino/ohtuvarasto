@@ -1,3 +1,6 @@
 .pytest_cache
+.coverage
 __pycache__
+.pytest_cache
+htmlcov
 *.tmp
