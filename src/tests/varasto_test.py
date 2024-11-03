@@ -46,6 +46,7 @@ class TestVarasto(unittest.TestCase):
 
     def test_virheellinen_alku_saldo(self):
         self.varasto = Varasto(10, -10)
+        
         self.assertEqual(self.varasto.saldo, 0.0)
 
     def test_liikaa_alku_saldoa(self):
